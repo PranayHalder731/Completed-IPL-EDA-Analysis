@@ -16,3 +16,9 @@ This project performs an in-depth **Exploratory Data Analysis (EDA)** on IPL mat
 - Histograms, bar charts, scatter plots, box plots.
 - Correlation heatmaps and pairplots.
 - Team-wise and season-wise performance trends.
+
+
+## 🚀 How to Run
+1. Clone the repository:
+   ```sh
+   git clone <repository-url>
