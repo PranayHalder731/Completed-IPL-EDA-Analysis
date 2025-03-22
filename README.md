@@ -21,4 +21,16 @@ This project performs an in-depth **Exploratory Data Analysis (EDA)** on IPL mat
 ## 🚀 How to Run
 1. Clone the repository:
    ```sh
-   git clone <repository-url>
+   git clone <[repository-url](https://github.com/PranayHalder731/Completed-IPL-EDA-Analysis/tree/main)>
+
+2.Open ipl_eda.ipynb in Google Colab or Jupyter Notebook.
+
+3. Run all the cells to generate insights.
+
+🔗 Google Colab Link
+https://colab.research.google.com/drive/1O-oyfcbDEPArkNShtZWsSs2kmmJ_5Zsf#scrollTo=dnj2Y6Y5WwjE
+
+🏆 Conclusion
+This EDA helps us understand how IPL teams and players perform across different scenarios. The insights gained can be useful for team strategies, player performance analysis, and predictive modeling.
+
+
