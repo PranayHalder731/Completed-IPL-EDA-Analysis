@@ -21,7 +21,7 @@ This project performs an in-depth **Exploratory Data Analysis (EDA)** on IPL mat
 ## 🚀 How to Run
 1. Clone the repository:
    ```sh
-   git clone <[repository-url](https://github.com/PranayHalder731/Completed-IPL-EDA-Analysis/tree/main)>
+   git clone <[repository-url](https://github.com/PranayHalder731/Completed-IPL-EDA-Analysis)>
 
 2.Open ipl_eda.ipynb in Google Colab or Jupyter Notebook.
 
